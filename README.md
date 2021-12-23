@@ -26,6 +26,6 @@
   <a href="https://instagram.com/isvaldo_o" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:isvaldosantos@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/rafaballerini/isvaldo-santos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/isvaldo-santos/isvaldo-santos/blob/output/github-contribution-grid-snake.svg)
 </div>
   
